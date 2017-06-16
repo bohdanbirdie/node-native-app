@@ -1,4 +1,4 @@
-var $ = require('NodObjC')
+var $ = require('nodobjc')
 var createApp = require('..')
 
 function nsString (string) {

@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/brandonhorst/node-native-app",
   "dependencies": {
-    "NodObjC": "^1.0.0"
+    "nodobjc": "^2.1.0"
   }
 }
